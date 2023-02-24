@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png
 <!--
 **Bagietnik/Bagietnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png 
 
 Here are some ideas to get you started:
 
