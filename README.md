@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bagietnik</h1>
 <h3 align="center">Passionate about IoT, Embedded Systems and Automation Control</h3>
 
-📫 How to reach me **piotrek45145@gmail.com**
 :school: 
+
+📫 How to reach me **piotrek45145@gmail.com**
+
+:mortar_board: Automation and Robotics Engineer
+:school: IT (IoT Future networks)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
