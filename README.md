@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bagietnik</h1>
 <h3 align="center">Passionate about IoT, Embedded Systems and Automation Control</h3>
 
-- 📫 How to reach me **piotrek45145@gmail.com**
+📫 How to reach me **piotrek45145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
