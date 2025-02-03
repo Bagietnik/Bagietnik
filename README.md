@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bagietnik</h1>
 <h3 align="center">Passionate about IoT, Embedded Systems and Automation Control</h3>
 
-
-I graduated with an engineering degree in automation and robotics, currently studying computer science (IoT and future networks). 
-</br>📫 How to reach me **piotrek45145@gmail.com**
-</br>:earth_americas: **Poland, Wroclaw**
-
 ## Main technologies
 Learning through project construction, courses and books.
 <br/>Particularly used:
